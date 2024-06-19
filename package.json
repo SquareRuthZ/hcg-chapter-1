@@ -1,0 +1,12 @@
+{
+  "name": "lab958331",
+  "version": "1.0.0",
+  "description": "This is for academic purposes in lab958331 data and network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
