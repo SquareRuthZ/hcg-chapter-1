@@ -1,2 +1,2 @@
-# lab958331
-This is for academic purposes in lab958331 data and network.
+# hcg-chaper-1
+This is repository of 560651023-HCG-chapter1
