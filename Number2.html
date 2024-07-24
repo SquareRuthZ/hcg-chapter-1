@@ -3,14 +3,13 @@
 <h3>Start typing a name in the input field below:</h3>
 <form action="">
 <button type="button" onclick="loadXMLDoc()">Request</button>
-First name: <input type="text" id="txt1" onkeyup="showHint(this.value)">
 </form>
-<p> Hello I'm respond from the server<span id="txtHint"></span></p>
+<p><span id="txtHint"></span></p>
 <script>
 function showHint(str) {
 var xhttp;
 if (str.length == 0) {
-document.getElementById("txtHint").innerHTML = "";
+document.getElementById("txtHint").innerHTML = "Hello I'm respond from the server";
 return;
 }
 xhttp = new XMLHttpRequest();
